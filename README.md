@@ -1,4 +1,4 @@
-# ha-vmware-windows-setup
+# Home Assistant VMware Windows Setup
 
 I want Vmware to auto-start my HomeAssistant VM on boot - SIMPLE. SO WHY IS IT SO HARD?
 - The **Configure Auto Start VMs** has a weird bug where it will hang the VM despite who the Windows Service is set to
